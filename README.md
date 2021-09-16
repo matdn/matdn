@@ -11,7 +11,8 @@ My name is Matis, i'm 19 years old and I live in Paris. I like surfing :surfer:,
     <img  width="250px" src="https://media.giphy.com/media/l0NwvUd7IEjn1764U/giphy.gif?cid=ecf05e47a5z89fn5uho5d3ji7cefagmeyr5oy7bkd2v7h7gk&rid=giphy.gif&ct=g"/>
 </p>
 
-I'm actually student in the huge world of the WEB devlopment for the creative aspect :money_with_wings:, and i wish to become ___Front-End creative developper___. <br><br>
+I'm actually student in the huge world of the WEB devlopment for the creative aspect :money_with_wings:, <br>
+and i wish to become ___Front-End creative developper___. <br><br>
 
 __I used to code with__ 
 * HTML/CSS 
