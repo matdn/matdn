@@ -11,12 +11,12 @@ My name is Matis, i'm 19 years old and I live in Paris. I like surfing :surfer:,
     <img  width="250px" src="https://media.giphy.com/media/l0NwvUd7IEjn1764U/giphy.gif?cid=ecf05e47a5z89fn5uho5d3ji7cefagmeyr5oy7bkd2v7h7gk&rid=giphy.gif&ct=g"/>
 </p>
 
-I'm actually student in the huge world of the WEB devlopment, and i wish to become ___Front-End creative developper___. <br><br>
+I'm actually student in the huge world of the WEB devlopment for the creative aspect :money_with_wings:, and i wish to become ___Front-End creative developper___. <br><br>
 
 __I used to code with__ 
-* HTML/CSS
+* HTML/CSS 
 * JS
-* PHP
+* PHP 
 
 
 __But i'm also using__ 
@@ -31,10 +31,11 @@ __Join me me in__
 * <a href="">Instagram </a>
 
 <p align="start" margin="200px">
-    <img  width="350px" src="https://media.giphy.com/media/l3fZG4tZuHMzap9N6/giphy.gif?cid=ecf05e470lv1605wid8f65mqbwhouw82d6wndwjm0m5x2985&rid=giphy.gif&ct=g"/>
+    <img  width="350px" src="https://media.giphy.com/media/C7fmS6fdWfrSU/giphy.gif?cid=ecf05e472fsx9bzgi75z5wmha3mt89f6z3hnnbuhuz3nwdw8&rid=giphy.gif&ct=g"/>
 </p>
 
 
-<a href="https://matisdn.wordpress.com/">My Port Folio </a> 
-<img width="100px" src="https://media.giphy.com/media/kyicnsZl8wJ6CBiZHo/giphy.gif"/>
+<!-- <a href="https://matisdn.wordpress.com/">My Port Folio</a> 
+<img width="50px" src="https://media.giphy.com/media/kyicnsZl8wJ6CBiZHo/giphy.gif"/>
 
+ -->
