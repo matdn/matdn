@@ -1,7 +1,7 @@
 # Hello stranger!:wave: 
 How are you? Good?! Well, it's nearly the week-end so i'm happy too! <br>
-<p align="center">
-    <img align="center" width="500px" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47nj57lhn39q7qansvunyimpye9i8jumh2ds5m34vm&rid=giphy.gif&ct=g"/>
+<p align="start">
+    <img align="center" width="500px" src="https://media.giphy.com/media/uL0pJDdA6fQ08/giphy.gif?cid=ecf05e47a118vqmg41j32f6nn5hab9psflu4h6kmwrgkhpcn&rid=giphy.gif&ct=g"/>
 </p>
 
 ## Welcome in my README!  
