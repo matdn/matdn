@@ -28,8 +28,8 @@ __But i'm also using__
 Yes, I am a UX/UI lover obviusly :heart_eyes:!
 
 __Join me me in__ 
-* <a href="">Linkedin </a>
-* <a href="">Instagram </a>
+* <a href="https://www.linkedin.com/in/matis-dene/">Linkedin </a>
+* <a href="https://www.instagram.com/matisdene/">Instagram </a>
 
 <p align="start" margin="200px">
     <img  width="350px" src="https://media.giphy.com/media/C7fmS6fdWfrSU/giphy.gif?cid=ecf05e472fsx9bzgi75z5wmha3mt89f6z3hnnbuhuz3nwdw8&rid=giphy.gif&ct=g"/>
