@@ -16,8 +16,10 @@ and i wish to become ___Front-End creative developper___. <br><br>
 
 __I used to code with__ 
 * HTML/CSS 
-* JS
-* PHP 
+* JS / GSAP / Vue /React
+* PHP / Synfony
+* Python
+* 
 
 
 __But i'm also using__ 
