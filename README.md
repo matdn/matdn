@@ -2,7 +2,7 @@
 <!--        M A T I S   D E NÉ      -->
 <!-- ============================== -->
 
-<div align="center">
+<div align="start">
 
 ```
 $ whoami
@@ -13,7 +13,7 @@ $ whoami
 
 ---
 
-<div align="center">
+<div align="start">
 
 ```
 $ cat profile.txt
@@ -39,7 +39,7 @@ $ cat profile.txt
 
 ---
 
-<div align="center">
+<div align="start">
 
 ```json
 {
@@ -55,7 +55,7 @@ $ cat profile.txt
 
 ---
 
-<div align="center">
+<div align="start">
 
 ```
 $ motivation.sh
@@ -70,7 +70,7 @@ $ motivation.sh
 
 ---
 
-<div align="center">
+<div align="start">
 
 ```bash
 # Connexions disponibles :
@@ -83,7 +83,7 @@ email="hello[at]matisdene.dev"
 
 ---
 
-<div align="center">
+<div align="start">
 
 ```
 $ system.exit
