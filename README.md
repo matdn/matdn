@@ -1,93 +1,39 @@
-<!-- ============================== -->
-<!--        M A T I S   D E NÉ      -->
-<!-- ============================== -->
+<h2 align="left">Hello stranger / i'm matis</h2>
 
-<div align="start">
+###
 
-```
-$ whoami
-> matis_dn
-```
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=matdn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matdn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=graywhite&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-<div align="start">
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBmYmZwc2Jsd3o3d2NmbGZxdGVvaGF2Z3Y0c3Z2OTNxaGRhYWZ1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WiM5K1e9MtEic/giphy.gif"  />
 
-```
-$ cat profile.txt
+###
 
-🎓 Master "Expert en création numérique interactive" — Gobelins
-   (spécialité Lead Technique)
-
-🌐 Développement interactif
-   ├─ Environnements 3D / Three.js
-   ├─ Shaders (GLSL / WebGL)
-   └─ Design d’interfaces
-
-🚀 Objectif :
-   concevoir des expériences numériques
-   impactantes, immersives et élégantes
-   avec des équipes pluridisciplinaires.
-
-📍 Localisation :
-   Paris · Bordeaux
-```
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
----
+###
 
-<div align="start">
-
-```json
-{
-  "stack": {
-    "creative_code": ["Three.js", "WebGL", "GLSL", "GSAP"],
-    "front_end": ["React", "TypeScript"],
-    "design_tools": ["Figma", "Photoshop"]
-  }
-}
-```
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
----
+###
 
-<div align="start">
+<br clear="both">
 
-```
-$ motivation.sh
+<img src="https://raw.githubusercontent.com/matdn/matdn/output/snake.svg" alt="Snake animation" />
 
-> Interactions signifiantes   → le mouvement comme langage
-> Shaders expressifs          → matières, lumières, distorsions
-> Storytelling interactif     → narration & scrollytelling
-> Sobriété visuelle           → contraste, typographie, rythme
-```
-
-</div>
-
----
-
-<div align="start">
-
-```bash
-# Connexions disponibles :
-linkedin="https://www.linkedin.com/in/matis-dene/"
-instagram="https://www.instagram.com/matisdene/"
-email="matis@period.com"
-```
-
-</div>
-
----
-
-<div align="start">
-
-```
-$ system.exit
-© 2025 — Matis Dené · Création Numérique Interactive ✦
-```
-
-</div>
+###
