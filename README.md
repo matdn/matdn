@@ -6,7 +6,7 @@
 
 ```
 $ whoami
-> Matis_Dené
+> matis_dn
 ```
 
 </div>
