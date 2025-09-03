@@ -32,7 +32,7 @@ $ cat profile.txt
    avec des équipes pluridisciplinaires.
 
 📍 Localisation :
-   Paris · Bordeaux · Bretagne
+   Paris · Bordeaux
 ```
 
 </div>
@@ -45,7 +45,7 @@ $ cat profile.txt
 {
   "stack": {
     "creative_code": ["Three.js", "WebGL", "GLSL", "GSAP"],
-    "front_end": ["React", "Vue.js", "TypeScript"],
+    "front_end": ["React", "TypeScript"],
     "design_tools": ["Figma", "Photoshop"]
   }
 }
@@ -76,7 +76,7 @@ $ motivation.sh
 # Connexions disponibles :
 linkedin="https://www.linkedin.com/in/matis-dene/"
 instagram="https://www.instagram.com/matisdene/"
-email="hello[at]matisdene.dev"
+email="matis@period.com"
 ```
 
 </div>
