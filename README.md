@@ -1,3 +1,4 @@
+```markdown
 ███╗   ███╗ █████╗ ████████╗██╗███████╗     ██████╗ ███╗   ██╗
 ████╗ ████║██╔══██╗╚══██╔══╝██║██╔════╝    ██╔═══██╗████╗  ██║
 ██╔████╔██║███████║   ██║   ██║███████╗    ██║   ██║██╔██╗ ██║
@@ -21,6 +22,9 @@ J’aime transformer des idées en univers visuels, à travers des interfaces so
 
 ```text
 three.js • webgl • react • tsl • typescript • creative dev
+```
+
+---
 
 ## ⚙️ Stack créative
 
@@ -31,6 +35,14 @@ three.js • webgl • react • tsl • typescript • creative dev
 | ⚙️ Langages | TypeScript / JavaScript / HTML / CSS |
 | 🎨 Design | Figma / Framer / After Effects / Notion |
 
+---
+
+## 🖋️ Philosophie
+
+> Le code, c’est du design à une autre échelle.  
+> La structure, la lumière, le mouvement — tout est langage.
+
+---
 
 ## 🧩 Projets
 
@@ -52,3 +64,4 @@ three.js • webgl • react • tsl • typescript • creative dev
 
 > _“Je construis des espaces numériques comme on compose de la lumière.”_  
 > — **Matis DN**, développeur créatif
+```
