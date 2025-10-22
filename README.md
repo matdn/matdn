@@ -32,10 +32,6 @@ three.js • webgl • react • tsl • typescript • creative dev
 
 ---
 
-## 🖋️ Philosophie
-
-> Le code, c’est du design à une autre échelle.  
-> La structure, la lumière, le mouvement — tout est langage.
 
 ---
 
