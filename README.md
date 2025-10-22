@@ -6,7 +6,7 @@
 # 🖤 Matis DN
 
 > _Développeur créatif • Étudiant aux Gobelins_  
-> _Entre lumière et code, j’explore le Web en noir et blanc._
+> _Web en noir et blanc._
 
 ---
 
